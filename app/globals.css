@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-shadow {
+    box-shadow: 8px 0 16px rgba(0, 0, 0, 0.6); /* Horizontal offset of 8px, no vertical offset, blur radius of 16px */
+  }
